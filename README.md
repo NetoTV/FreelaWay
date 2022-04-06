@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto foi desenvolvido durante a [PYSTACK WEEK 3.0](https://pythonando.com.br/inscricao/psw3)
+Este projeto foi desenvolvido durante a [PYSTACK WEEK 3.0](https://pythonando.com.br/inscricao/psw3), evento realizado pela empresa [Pythonando](https://www.linkedin.com/company/pythonando/)
 
 ## ⚙ Configuração
 
