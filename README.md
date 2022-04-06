@@ -42,7 +42,7 @@ Atenção! É necessário que você tenha o Python instalado!
 > python manage.py runserver
 
 3- Acesse a aplicação pelo link (A porta pode variar caso ela já esteja sendo ocupada no momento de execução):
-> - [Link](http://127.0.0.1:8000)
+> - [Home](http://127.0.0.1:8000)
 > - [Plataforma](http://127.0.0.1:8000/plataforma)
 > - [Cadastro](http://127.0.0.1:8000/auth/cadastro)
 > - [Login](http://127.0.0.1:8000/auth/logar)
