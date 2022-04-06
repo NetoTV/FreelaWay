@@ -43,6 +43,6 @@ Atenção! É necessário que você tenha o Python instalado!
 
 3- Acesse a aplicação pelo link (A porta pode variar caso ela já esteja sendo ocupada no momento de execução):
 > - [Link](http://127.0.0.1:8000)
-> - [Plataforma](127.0.0.1:8000/plataforma)
-> - [Cadastro](127.0.0.1:8000/auth/cadastro)
-> - [Login](127.0.0.1:8000/auth/logar)
+> - [Plataforma](http://127.0.0.1:8000/plataforma)
+> - [Cadastro](http://127.0.0.1:8000/auth/cadastro)
+> - [Login](http://127.0.0.1:8000/auth/logar)
