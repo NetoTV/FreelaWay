@@ -6,9 +6,16 @@
 
 ## :camera: Demonstração
 
+<div align="center">
+
 ![png1](github/Cadastro.png)
 ![png2](github/Logar.png)
-![png3](github/Codigo.png)
+![png3](github/Jobs.png)
+![png4](github/Jobs2.png)
+![png4](github/Perfil.png)
+![png6](github/Codigo.png)
+
+</div>
 
 ## :rocket: Tecnologias
 
