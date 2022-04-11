@@ -1,5 +1,5 @@
 <h1 align="center">
-   FreelaWay (Em Desenvolvimento!)
+   FreelaWay
 </h1>
 
 <br>
