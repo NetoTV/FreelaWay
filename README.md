@@ -48,7 +48,7 @@ Atenção! É necessário que você tenha o Python instalado!
 > python manage.py runserver
 
 3- Acesse a aplicação pelo link (A porta pode variar caso ela já esteja sendo ocupada no momento de execução):
-> - [Home](http://127.0.0.1:8000)
-> - [Plataforma](http://127.0.0.1:8000/plataforma)
+> - [Home](http://127.0.0.1:8000/jobs/encontrar_jobs/)
+> - [Perfil](http://127.0.0.1:8000/jobs/perfil/)
 > - [Cadastro](http://127.0.0.1:8000/auth/cadastro)
 > - [Login](http://127.0.0.1:8000/auth/logar)
