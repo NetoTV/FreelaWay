@@ -10,9 +10,9 @@
 
 ![png1](github/Cadastro.png)
 ![png2](github/Logar.png)
-![png3](github/Jobs.png)
-![png4](github/Jobs2.png)
-![png4](github/Perfil.png)
+![png3](github/Perfil.png)
+![png4](github/Jobs.png)
+![png5](github/Jobs2.png)
 
 </div>
 
