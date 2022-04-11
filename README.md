@@ -13,7 +13,6 @@
 ![png3](github/Jobs.png)
 ![png4](github/Jobs2.png)
 ![png4](github/Perfil.png)
-![png6](github/Codigo.png)
 
 </div>
 
